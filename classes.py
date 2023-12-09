@@ -32,7 +32,7 @@ class Customer(User):
 
 
 # init user object
-caden = User('Caden Abbitt', 'cadenabbitt@gmail.com', 17)
+caden = User('Caden Abbitt', 'SheLikesWheniShorttheVIX', 17)
 # init user object
 jack = Customer('Jack Jackson', 'jjackson@hornet.com', 26)
 
