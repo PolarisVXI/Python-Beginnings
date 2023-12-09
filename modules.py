@@ -18,7 +18,7 @@ timestamp = time()
 c = CamelCase()
 print(c.hump('hello there world'))
 
-email = 'cadenabbitt@gmail.com'
+email = 'SheLikesWheniShorttheVIX@gmail.com'
 if validate_email(email):
     print('Email is valid!')
 else:
